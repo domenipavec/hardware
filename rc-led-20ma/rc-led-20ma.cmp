@@ -1,0 +1,150 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = sob 29 nov 2014 10:50:39 CET
+
+BeginCmp
+TimeStamp = /54798E44;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5478D24F;
+Reference = IC1;
+ValeurCmp = ATTINY84-S;
+IdModule  = so-14;
+EndCmp
+
+BeginCmp
+TimeStamp = /5478D28A;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5478D49E;
+Reference = K2;
+ValeurCmp = CONN_3;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5478D4D0;
+Reference = K3;
+ValeurCmp = CONN_3;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5478D942;
+Reference = P1;
+ValeurCmp = CONN_3X2;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5478D54D;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5478D5CE;
+Reference = P3;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5478D5F5;
+Reference = P4;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5478D61F;
+Reference = P5;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5478D64C;
+Reference = P6;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5478D69E;
+Reference = P7;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5478D6D1;
+Reference = P8;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5478DE5F;
+Reference = R1;
+ValeurCmp = 150R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5478DE50;
+Reference = R2;
+ValeurCmp = 150R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5478DE41;
+Reference = R3;
+ValeurCmp = 150R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5478DE32;
+Reference = R4;
+ValeurCmp = 150R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5478DE23;
+Reference = R5;
+ValeurCmp = 150R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5478DE14;
+Reference = R6;
+ValeurCmp = 150R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5478DDDA;
+Reference = R7;
+ValeurCmp = 150R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5478D757;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = SW_PUSH_SMALL;
+EndCmp
+
+EndListe
