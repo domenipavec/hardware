@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0  Date: sob 24 jan 2015 17:05:28 CET
+#
+$CMP ATTINY841-SOIC
+D ATTINY841, SOIC14, 8k Flash, 512B SRAM, 512B EEPROM
+K AVR 8bit Microcontroller tinyAVR
+F http://www.atmel.com/Images/Atmel-8495-8-bit-AVR-Microcontrollers-ATtiny441-ATtiny841_Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
